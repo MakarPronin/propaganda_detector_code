@@ -9,7 +9,7 @@ This propaganda detector uses the BERT model to label text samples with the type
     pip install transformers==4.24.0
     pip install datasets==2.7.1
     pip install evaluate==0.3.0
-3. Update files in the datasets folder (don't change names and format of the files).
+3. Update files in the datasets folder (Optional. Don't change the names and format of the files).
 4. Open propagandaDetector.py.
 5. Uncomment "# trainModel()" line in propagandaDetector.py.
 6. Run propagandaDetector.py.
